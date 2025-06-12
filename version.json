@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "update_url": "https://github.com/MARKKYX/installer-meta/releases/latest/download/MarkkyInstallerPro_1.0.2.exe",
+  "version": "1.0.3",
+  "update_url": "https://github.com/MARKKYX/installer-meta/releases/latest/download/MarkkyInstallerPro_1.0.3.exe",
   "silent_args": "/S",
   "force_close": true
 }
